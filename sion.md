@@ -27,7 +27,7 @@ Alt-YEE
 
 Hey, Try [DarkSouls3](https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%86%8C%EC%9A%B8%203).
 (So good game yeah)
-[Reference link][Arbitrary case-insensitive reference text]
+[I'm a reference-style link][Arbitrary caseinsensitivereference text]
 
 I do hate it!!!!!!!!
 
