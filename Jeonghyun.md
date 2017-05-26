@@ -10,9 +10,9 @@ I very very want **pizza and_chicken_**
 I hate to ~~study~~
 
 [many internet user visit this site](https://www.naver.com)
-[and this site is very famous]
-[and this site is very famous]: https://www.google.com
+and [this site is very famous][1]
 
+[1]: https://www.google.com
 
 this is github's logo
 
@@ -36,3 +36,6 @@ var s = "JavaScript syntax highlighting";
 ```python
 s = "Python syntax highlighting"
 ```
+
+> from in my head
+> special thanks my head
