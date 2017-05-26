@@ -6,7 +6,7 @@
 * AnotherList sub-sub-list
 
 I want go  *home* and **rest**
-I very very want **pizza and_chicken_**
+I very very want **pizza and _chicken_**
 I hate to ~~study~~
 
 [many internet user visit this site](https://www.naver.com)
