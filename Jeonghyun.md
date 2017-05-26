@@ -1,4 +1,4 @@
-# HeadLine
+ HeadLine
 
 1.First List
 2.Another List
@@ -10,11 +10,13 @@ I very very want **pizza and_chicken_**
 I hate to ~~study~~
 
 [many internet user visit this site](https://www.naver.com)
-[and this site is very famous][Arbitrary case-insensitive reference text]
-[arbitrary case-insensitive reference text]: https://www.google.com
+[and this site is very famous][1]
+[1]: https://www.google.com
+
+
 this is github's logo
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 We make it Table
