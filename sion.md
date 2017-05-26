@@ -1,8 +1,8 @@
-#6조 이시온, github 사용자 이름 : zion97
+# 6조 이시온, github 사용자 이름 : zion97
 
-##DarkSouls3 God Game
+## DarkSouls3 God Game
 
-###Ohhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+### Ohhhhhhhhhhhhhhhhhhhhhhhhhhhh!
 
 
 Alt-Lets do this
@@ -27,6 +27,7 @@ Alt-YEE
 
 Hey, Try [DarkSouls3](https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%86%8C%EC%9A%B8%203).
 (So good game yeah)
+[Reference link][Arbitrary case-insensitive reference text]
 
 I do hate it!!!!!!!!
 
@@ -46,3 +47,17 @@ I Can | DO this
 ---|---
 md|md
 yes|indeed
+
+
+IMage
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+>인용
+>
+>인용을 인용한다
+>
+> ### 하하하하하하하하
+>
+>>인용 속 인용
