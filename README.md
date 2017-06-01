@@ -1,14 +1,14 @@
-<<<<<<< HEAD
-# 6조 이시온, 이학재, 조동수, 이정현  github user name : wjdqls7878
-
-1.필요성
-
-=======
-<<<<<<< HEAD
 # 스마트 동시 통역 기기
 
 ## 6조
 ### 이시온, 이정현, 조동수, 이학재
+### github user name : zion97, ieefund, dongsoo2317, wjdqls7878
+
+1.필요성
+2.시스템 개요
+3.관련제품 조사
+*pilot
+*ili
 
 1. 필요성
 
@@ -43,6 +43,4 @@
 ![plalot](http://postfiles14.naver.net/MjAxNzA2MDFfNCAg/MDAxNDk2Mjk0NTc5NTky.3o6SL0wG0aoeIAFfeLb1pTRqzl0KzqxChRPko1HCdowg.D9-x5T4jVbm8ajr6mLOzaJZZYICcADt8ym9EenWGargg.JPEG.wjdqls5_1/%EA%B7%B8%EB%A6%BC1.jpg?type=w773)
 ![ili](http://postfiles15.naver.net/MjAxNzA2MDFfMTEx/MDAxNDk2Mjk0NTc5Njg0.ALy2X3CXmLU7-8xe5KNY7cQLXLGaiPYD_CNCUhnW_3cg.Eru9_IErl4Clh6G_tkRaejeRIdmOjwfziYePtPy0iHwg.JPEG.wjdqls5_1/%EA%B7%B8%EB%A6%BC2.jpg?type=w773)
  
-=======
-# 6조 이시온, 이학재, 조동수, 이시온 github user name : wjdqls7878
 
