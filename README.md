@@ -17,7 +17,7 @@
    250가지가 넘는다. 이와 같이 매우 많은 언어가 사용되고 있고,
    모든 언어에 대해 교육을 받는 것은 현실적으로 불가능에 가깝기
    때문에 모든 언어가 지원 가능한 번역 프로그램이 필요하다.
-![world](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=008&aid=0002888002.jpg)       
+![world](http://imgnews.naver.net/image/008/2012/08/03/2012080310134716375_1.jpg?type=w540)       
 
  * 번역 보조 도구의 신속성 부족
    다른 언어를 사용하는 사람과 소통을 하기 위해 사전이나 회화집을 찾아본다면
@@ -35,5 +35,4 @@
  * 
 =======
 # 6조 이시온, 이학재, 조동수, 이시온 github user name : wjdqls7878
->>>>>>> 8c8f623a85bca7f79d0debabc84a7214c51376dc
->>>>>>> 52bd1ae7e67d87fedb7d4ce5d274a0fbbeaac8de
+
