@@ -17,7 +17,7 @@
    250가지가 넘는다. 이와 같이 매우 많은 언어가 사용되고 있고,
    모든 언어에 대해 교육을 받는 것은 현실적으로 불가능에 가깝기
    때문에 모든 언어가 지원 가능한 번역 프로그램이 필요하다.
-![world](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=008&aid=0002888002)       
+![world](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=008&aid=0002888002.jpg)       
 
  * 번역 보조 도구의 신속성 부족
    다른 언어를 사용하는 사람과 소통을 하기 위해 사전이나 회화집을 찾아본다면
